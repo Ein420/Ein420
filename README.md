@@ -27,8 +27,8 @@ I mainly tinker and rice my dotfiles and WMS that I use.
 
 Nice to meet you! 🤝
 
-[![](https://img.shields.io/badge/Twitter-typeling1578-1d9bf0.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://x.com/Ein1394282)
-[![](https://img.shields.io/badge/YouTube-typeling1578-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCxEBEXLwA1wQud7KJ-a3ZTg)
+[![](https://img.shields.io/badge/Twitter-Ein-1d9bf0.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://x.com/Ein1394282)
+[![](https://img.shields.io/badge/YouTube-Ein-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCxEBEXLwA1wQud7KJ-a3ZTg)
 
 ### PGP Public Key
 https://gist.github.com/Ein420/f8c56090af5035657c7d775c24069087
