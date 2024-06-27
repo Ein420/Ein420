@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Overviews
 
-| <img align="center" src="https://github-readme-stats.typeling1578.dev/?username=Ein420&show_icons=true&theme=transparent&hide_border=true" alt="Ein420's GitHub stats" /> | <img align="center" src="https://github-readme-stats.Ein420.dev/top-langs/?username=Ein420&theme=transparent&layout=compact&hide_border=true&exclude_repo=icns-code-cross-platform,Vivaldia,dino-game,com.android.music" alt="Top Langs" /> |
+| <img align="center" src="https://github-readme-stats.Ein420.dev/?username=Ein420&show_icons=true&theme=transparent&hide_border=true" alt="Ein420's GitHub stats" /> | <img align="center" src="https://github-readme-stats.Ein420.dev/top-langs/?username=Ein420&theme=transparent&layout=compact&hide_border=true&exclude_repo=icns-code-cross-platform,Vivaldia,dino-game,com.android.music" alt="Top Langs" /> |
 | ------------- | ------------- |
 
 ### About:me
