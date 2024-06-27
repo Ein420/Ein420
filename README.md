@@ -15,15 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Overviews
-
-| <img align="center" src="https://github-readme-stats.Ein420.dev/?username=Ein420&show_icons=true&theme=transparent&hide_border=true" alt="Ein420's GitHub stats" /> | <img align="center" src="https://github-readme-stats.Ein420.dev/top-langs/?username=Ein420&theme=transparent&layout=compact&hide_border=true&exclude_repo=icns-code-cross-platform,Vivaldia,dino-game,com.android.music" alt="Top Langs" /> |
-| ------------- | ------------- |
-
 ### About:me
-I am a student and Arch Linux user.
+I am an Arch Linux user.
 
-I mainly tinker and rice my dotfiles and WMS that I use.
+I mainly tinker with my dotfiles and rice WMs that I use.
 
 Nice to meet you! 🤝
 
