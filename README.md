@@ -27,3 +27,7 @@ Nice to meet you! 🤝
 
 ### PGP Public Key
 https://gist.github.com/Ein420/f8c56090af5035657c7d775c24069087
+
+### Donate
+
+<a href="https://www.patreon.com/Ein_TheGrimAngel"><img width="125" src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Patreon" /></a>
