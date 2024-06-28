@@ -25,6 +25,10 @@ Nice to meet you! 🤝
 [![](https://img.shields.io/badge/Twitter-Ein-1d9bf0.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://x.com/Ein1394282)
 [![](https://img.shields.io/badge/YouTube-Ein-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCxEBEXLwA1wQud7KJ-a3ZTg)
 
+### Skills
+[![HTML](https://img.shields.io/badge/-HTML-dd4b25.svg?style=flat-square&logo=html5&logoColor=ffffff)]()
+[![CSS](https://img.shields.io/badge/-CSS-254bdd.svg?style=flat-square&logo=css3&logoColor=ffffff)]()
+
 ### PGP Public Key
 https://gist.github.com/Ein420/f8c56090af5035657c7d775c24069087
 
