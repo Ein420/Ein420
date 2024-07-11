@@ -24,7 +24,7 @@ Nice to meet you! 🤝
 
 [![](https://img.shields.io/badge/Twitter-Ein-1d9bf0.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://x.com/Ein1394282)
 [![](https://img.shields.io/badge/YouTube-Ein-ff0000.svg?style=for-the-badge&logo=youtube&logoColor=ffffff)](https://www.youtube.com/channel/UCxEBEXLwA1wQud7KJ-a3ZTg)
-[![](https://img.shields.io/badge/Blog?style=for-the-badge&label=Blog)](https://einthegrimangel.neocities.org/)
+[![](https://img.shields.io/badge/Blog?style=for-the-badge&label=Ein)](https://einthegrimangel.neocities.org/)
 
 ### Skills
 [![HTML](https://img.shields.io/badge/-HTML-dd4b25.svg?style=flat-square&logo=html5&logoColor=ffffff)]()
